@@ -1,4 +1,3 @@
-# Prince_Siboniso_Ntimeni
 ## Data Scientist
 
 ## Technical Skills:
