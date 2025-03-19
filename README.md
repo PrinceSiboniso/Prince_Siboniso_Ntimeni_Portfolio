@@ -17,7 +17,7 @@ Hibernate.
 • Additional Skills: Excel Advanced, RDBMS, Teradata, AB Initio, Microsoft Power BI.
 
 
-Education
+## Education
 
     M,S.c., Data Science | University of Witwatersrand  (june 2024)
     B.S(Hons)., Computer Science | University of Limpopo (December 2022)
