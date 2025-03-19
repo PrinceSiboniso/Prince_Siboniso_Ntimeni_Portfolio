@@ -42,7 +42,7 @@ Java Developer @ Zensar Technologies (November 2023 - October 2024)
 
 Projects
 
-![EEG Band Discovery](/Assests/Im/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/Assests/eeg_band_discovery.jpeg)
 
 
 
