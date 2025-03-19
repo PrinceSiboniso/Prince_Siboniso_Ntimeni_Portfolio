@@ -44,6 +44,7 @@ Projects
 ![EEG Band Discovery](/Assets/img/eeg_band_discovery.jpeg)
 
 
+
 Machine Learning Model for Forex Market Prediction — FirstRand Group 2024 – Present
 • Building a machine learning model to predict forex price movements for five currency pairs.
 • Utilising MySQL, CSV files, Python, Yahoo Finance API, MetaTrader, dashboards,
