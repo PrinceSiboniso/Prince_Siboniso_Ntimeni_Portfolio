@@ -41,6 +41,8 @@ Java Developer @ Zensar Technologies (November 2023 - October 2024)
 
 
 Projects
+![EEG Band Discovery](/Assets/img/eeg_band_discovery.jpeg)
+
 
 Machine Learning Model for Forex Market Prediction — FirstRand Group 2024 – Present
 • Building a machine learning model to predict forex price movements for five currency pairs.
