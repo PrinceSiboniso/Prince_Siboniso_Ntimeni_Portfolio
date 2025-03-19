@@ -1,7 +1,9 @@
 # Prince_Siboniso_Ntimeni
 Data Scientist
 
-Technical Skills: Machine Learning, Reinforcement Learning, Deep Learning, NLP, Predictive Modeling.
+Technical Skills:
+
+Machine Learning, Reinforcement Learning, Deep Learning, NLP, Predictive Modeling.
 • Data Analytics: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Business
 Intelligence (BI), Statistical Analysis.
 • Quantitative Analytics: Time Series Analysis, Probability & Stochastic Processes, Financial
@@ -47,6 +49,7 @@ backtesting.
 • Implementing time series forecasting techniques and optimisation strategies.
 
 Certifications
+
 • AZ-900: Microsoft Azure Fundamentals (2023)
 • AZ-104: Microsoft Azure Administrator Associate (2024)
 • AZ-305: Microsoft Azure Solutions Architect Expert (2024)
