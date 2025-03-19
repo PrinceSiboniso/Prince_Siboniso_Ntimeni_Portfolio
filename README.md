@@ -1,7 +1,7 @@
 # Prince_Siboniso_Ntimeni
-Data Scientist
+## Data Scientist
 
-Technical Skills:
+## Technical Skills:
 
 Machine Learning, Reinforcement Learning, Deep Learning, NLP, Predictive Modeling.
 • Data Analytics: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Business
@@ -24,7 +24,7 @@ Education
     B.S., Mathematical Science | University of Limpopo(November 2021)
 
 
-Work Experience
+## Work Experience
 
 Data Scientist Learner  @ Firstrand (June 2022 - Present)
 
@@ -40,7 +40,7 @@ Java Developer @ Zensar Technologies (November 2023 - October 2024)
 • Conducted code reviews and unit testing for high-quality deliverables.
 
 
-Projects
+## Projects
 
 ![EEG Band Discovery](/Assests/eeg_band_discovery.jpeg)
 
@@ -52,7 +52,7 @@ Machine Learning Model for Forex Market Prediction — FirstRand Group 2024 – 
 backtesting.
 • Implementing time series forecasting techniques and optimisation strategies.
 
-Certifications
+## Certifications
 
 • AZ-900: Microsoft Azure Fundamentals (2023)
 • AZ-104: Microsoft Azure Administrator Associate (2024)
