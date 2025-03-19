@@ -12,7 +12,7 @@ Hibernate.
 • Databases: MySQL, PostgreSQL, SQL Server.
 • Tools: TensorFlow, Keras, PyTorch, Scikit-Learn, Docker, Kubernetes, Git, Power BI.
 • Cloud Platforms: Azure (Kubernetes, Virtual Desktop).
-• Financial Data Processing: ELT, MySQL DB, CSV, Python, yFinance API, Dashboards, Backtesting.
+• Financial Data Processing: ELT, MySQL DB, CSV, Python, yFinance API, Dashboards, Backtesting.
 • Additional Skills: Excel Advanced, RDBMS, Teradata, AB Initio, Microsoft Power BI.
 
 
