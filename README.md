@@ -1,13 +1,15 @@
-# Prince_Siboniso_Ntimeni_Portfolio
+# Prince_Siboniso_Ntimeni
 Data Scientist
 Technical Skills: Python, SQL, Azure, Python , Java, Terradata, Machine learning 
-Education
+
+#Education
 
     M,S.c., Data Science | University of Witwatersrand  (june 2024)
     B.S(Hons)., Computer Science | University of Limpopo (December 2022)
     B.S., Mathematical Science | University of Limpopo(November 2021)
 
-Work Experience
+
+#Work Experience
 
 Data Scientist Learner  @ Firstrand (June 2022 - Present)
 
