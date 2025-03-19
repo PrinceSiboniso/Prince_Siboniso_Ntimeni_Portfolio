@@ -3,7 +3,7 @@ Data Scientist
 
 Technical Skills:
 
-Machine Learning, Reinforcement Learning, Deep Learning, NLP, Predictive Modeling.
+Machine Learning, Reinforcement Learning, Deep Learning, NLP, Predictive Modeling.
 • Data Analytics: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Business
 Intelligence (BI), Statistical Analysis.
 • Quantitative Analytics: Time Series Analysis, Probability & Stochastic Processes, Financial
